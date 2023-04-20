@@ -2,7 +2,9 @@
 
 This is a implementation of the popular 2048 game, written in C++, using Qt Creator for creating the user interface. Players can use arrow keys to move the tiles on a 4x4 grid. When two tiles with the same number touch, they merge into one, doubling their value. The objective of the game is to create a tile with the value of 2048.
 
-<img src="2048_screenshot.png" alt="2048 Game" width="500"/>
+  <p align="center">
+    <img src="2048_screenshot.png" alt="2048 Game" style="width: 30vw;">
+  </p>
 
 ## Table of Contents
 
