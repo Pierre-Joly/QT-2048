@@ -82,7 +82,3 @@ cmake --build .
 - When two tiles with the same number touch, they merge into one, doubling their value.
 - The game is won when a tile with the value of 2048 is created.
 - The game is lost when there are no valid moves left and the board is full.
-
-## License
-
-This project is licensed under the MIT License.
